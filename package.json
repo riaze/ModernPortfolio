@@ -1,0 +1,22 @@
+{
+  "name": "modernportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w dist/css/sass -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riaze/ModernPortfolio.git"
+  },
+  "author": "Riaze ahamed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riaze/ModernPortfolio/issues"
+  },
+  "homepage": "https://github.com/riaze/ModernPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
